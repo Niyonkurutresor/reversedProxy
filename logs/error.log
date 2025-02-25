@@ -1,0 +1,23 @@
+2025/02/25 13:26:26 [emerg] 27624#8028: invalid number of arguments in "server" directive in C:\Users\rwana\Desktop\TRESOR PROJECT\nginx-1.26.3/conf/nginx.conf:35
+2025/02/25 13:27:05 [emerg] 1068#26308: invalid number of arguments in "server" directive in C:\Users\rwana\Desktop\TRESOR PROJECT\nginx-1.26.3/conf/nginx.conf:35
+2025/02/25 13:27:37 [emerg] 24708#17712: invalid number of arguments in "server" directive in C:\Users\rwana\Desktop\TRESOR PROJECT\nginx-1.26.3/conf/nginx.conf:35
+2025/02/25 13:28:05 [emerg] 23960#26928: invalid number of arguments in "server" directive in C:\Users\rwana\Desktop\TRESOR PROJECT\nginx-1.26.3/conf/nginx.conf:35
+2025/02/25 13:28:16 [emerg] 17160#20484: invalid number of arguments in "server" directive in C:\Users\rwana\Desktop\TRESOR PROJECT\nginx-1.26.3/conf/nginx.conf:35
+2025/02/25 13:28:55 [error] 11580#27508: *1 CreateFile() "C:\Users\rwana\Desktop\TRESOR PROJECT\nginx-1.26.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/02/25 13:29:58 [emerg] 25608#16764: invalid number of arguments in "server" directive in C:\Users\rwana\Desktop\TRESOR PROJECT\nginx-1.26.3/conf/nginx.conf:35
+2025/02/25 13:31:10 [notice] 16576#620: signal process started
+2025/02/25 13:31:25 [notice] 4496#12572: signal process started
+2025/02/25 13:31:25 [error] 4496#12572: CreateFile() "C:\Users\rwana\Desktop\TRESOR PROJECT\nginx-1.26.3/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2025/02/25 13:32:39 [notice] 14760#20364: signal process started
+2025/02/25 13:32:39 [error] 14760#20364: CreateFile() "C:\Users\rwana\Desktop\TRESOR PROJECT\nginx-1.26.3/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2025/02/25 13:32:44 [notice] 17816#25532: signal process started
+2025/02/25 13:32:44 [error] 17816#25532: CreateFile() "C:\Users\rwana\Desktop\TRESOR PROJECT\nginx-1.26.3/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2025/02/25 13:33:34 [notice] 21456#25336: signal process started
+2025/02/25 13:35:59 [error] 24704#21580: *1 "C:\Users\rwana\Desktop\TRESOR PROJECT\nginx-1.26.3/html/auth/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /auth/ HTTP/1.1", host: "localhost"
+2025/02/25 13:59:09 [emerg] 4612#5312: cannot load certificate "C:/etc/nginx/ssl/certificate.crt": BIO_new_file() failed (SSL: error:80000003:system library::No such process:calling fopen(C:/etc/nginx/ssl/certificate.crt, r) error:10000080:BIO routines::no such file)
+2025/02/25 13:59:19 [emerg] 13160#9584: cannot load certificate "C:/etc/nginx/ssl/certificate.crt": BIO_new_file() failed (SSL: error:80000003:system library::No such process:calling fopen(C:/etc/nginx/ssl/certificate.crt, r) error:10000080:BIO routines::no such file)
+2025/02/25 13:59:35 [emerg] 15036#23780: cannot load certificate "C:/etc/nginx/ssl/certificate.crt": BIO_new_file() failed (SSL: error:80000003:system library::No such process:calling fopen(C:/etc/nginx/ssl/certificate.crt, r) error:10000080:BIO routines::no such file)
+2025/02/25 14:00:45 [notice] 912#28456: signal process started
+2025/02/25 14:00:52 [notice] 24148#23220: signal process started
+2025/02/25 14:01:13 [emerg] 19916#14936: cannot load certificate "C:/etc/nginx/ssl/certificate.crt": BIO_new_file() failed (SSL: error:80000003:system library::No such process:calling fopen(C:/etc/nginx/ssl/certificate.crt, r) error:10000080:BIO routines::no such file)
+2025/02/25 14:01:44 [emerg] 27524#26716: cannot load certificate "C:/etc/nginx/ssl/certificate.crt": BIO_new_file() failed (SSL: error:80000003:system library::No such process:calling fopen(C:/etc/nginx/ssl/certificate.crt, r) error:10000080:BIO routines::no such file)
